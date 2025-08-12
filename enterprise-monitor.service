@@ -1,16 +1,10 @@
-[Unit]
-Description=Enterprise Monitor Service
-After=network-online.target
-Wants=network-online.target
-StartLimitInterval=300
-StartLimitBurst=5
-
 [Service]
 Type=simple
 User=enterprise-monitor
 Group=enterprise-monitor
 WorkingDirectory=/opt/enterprise-monitor
-ExecStart=/usr/bin/python3 /opt/enterprise-monitor/server_launcher.py
+Environment=PATH=/opt/enterprise-monitor/venv/bin:/usr/local/bin:/usr/bin:/bin
+ExecStart=/opt/enterprise-monitor/venv/bin/python server_launcher.py
 Restart=always
 RestartSec=30
 StandardOutput=journal
@@ -21,17 +15,15 @@ Environment=DISPLAY=:99
 Environment=ENTERPRISE_MONITOR_SERVER=true
 Environment=CHROME_NO_SANDBOX=true
 
-# Security settings
-NoNewPrivileges=true
-PrivateTmp=true
-ProtectHome=true
-ProtectSystem=strict
-ReadWritePaths=/opt/enterprise-monitor /var/log/enterprise-monitor /tmp
+# Giảm bớt security restrictions
+NoNewPrivileges=false
+# PrivateTmp=true
+# ProtectHome=true
+# ProtectSystem=strict
+ReadWritePaths=/opt/enterprise-monitor /var/log/enterprise-monitor /tmp /home
 
 # Resource limits
 MemoryMax=2G
 CPUQuota=80%
-
 [Install]
 WantedBy=multi-user.target
-
