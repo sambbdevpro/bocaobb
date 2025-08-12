@@ -12,7 +12,7 @@ CONFIG = {
     },
     'telegram': {
         'bot_token': '7983597834:AAH9XAB_wYtEp7c-2mmzPz5NgO7_SnxKgVA',
-        'chat_id': '-1002773012711', # ✅ FIXED: Chat ID đúng từ link bạn cung cấp
+        'chat_id': '-1002548910880', # ✅ FIXED: Chat ID đúng từ link bạn cung cấp
         'enabled': True
     },
     'threads': {
