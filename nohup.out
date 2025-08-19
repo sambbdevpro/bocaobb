@@ -1,0 +1,218 @@
+/usr/lib/python3.12/zipfile/__init__.py:1607: UserWarning: Duplicate name: 'new_announcement (1).pdf'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+=== Script auto chạy tại phút 20 và 50 mỗi giờ ===
+
+[2025-08-13 22:50:00.199361] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[GỬI OK] pdfs_batch_2.zip
+[GỬI OK] pdfs_batch_3.zip
+[GỬI OK] pdfs_batch_4.zip
+[GỬI OK] pdfs_batch_5.zip
+[GỬI OK] pdfs_batch_6.zip
+[GỬI OK] pdfs_batch_7.zip
+[GỬI OK] pdfs_batch_8.zip
+[GỬI OK] pdfs_batch_9.zip
+[GỬI OK] pdfs_batch_10.zip
+[GỬI OK] pdfs_batch_11.zip
+[GỬI OK] pdfs_batch_12.zip
+[GỬI OK] pdfs_batch_13.zip
+[GỬI OK] pdfs_batch_14.zip
+[GỬI OK] pdfs_batch_15.zip
+[GỬI OK] pdfs_batch_16.zip
+[GỬI OK] pdfs_batch_17.zip
+[GỬI OK] pdfs_batch_18.zip
+[GỬI OK] pdfs_batch_19.zip
+[GỬI OK] pdfs_batch_20.zip
+[GỬI OK] pdfs_batch_21.zip
+[GỬI OK] pdfs_batch_22.zip
+[GỬI OK] pdfs_batch_23.zip
+[GỬI OK] pdfs_batch_24.zip
+[GỬI OK] pdfs_batch_25.zip
+[2025-08-13 22:52:00.812979] Hoàn thành và dọn dẹp.
+
+[2025-08-13 23:20:00.131609] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[2025-08-13 23:20:04.589866] Hoàn thành và dọn dẹp.
+
+[2025-08-13 23:50:00.926571] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[2025-08-13 23:50:22.320367] Hoàn thành và dọn dẹp.
+
+[2025-08-14 00:20:00.685312] Bắt đầu xử lý...
+Không tìm thấy PDF.
+
+[2025-08-14 00:50:00.086916] Bắt đầu xử lý...
+Không tìm thấy PDF.
+
+[2025-08-14 01:20:00.530502] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[2025-08-14 01:20:05.462646] Hoàn thành và dọn dẹp.
+
+[2025-08-14 01:50:00.896356] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[2025-08-14 01:50:10.955463] Hoàn thành và dọn dẹp.
+
+[2025-08-14 02:20:00.375874] Bắt đầu xử lý...
+Không tìm thấy PDF.
+
+[2025-08-14 02:50:00.863831] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[2025-08-14 02:50:04.242832] Hoàn thành và dọn dẹp.
+
+[2025-08-14 03:20:00.668207] Bắt đầu xử lý...
+Không tìm thấy PDF.
+
+[2025-08-14 03:50:00.101021] Bắt đầu xử lý...
+Không tìm thấy PDF.
+
+[2025-08-14 04:20:00.586488] Bắt đầu xử lý...
+Không tìm thấy PDF.
+
+[2025-08-14 04:50:00.094321] Bắt đầu xử lý...
+Không tìm thấy PDF.
+
+[2025-08-14 05:20:00.582255] Bắt đầu xử lý...
+Không tìm thấy PDF.
+
+[2025-08-14 05:50:00.085920] Bắt đầu xử lý...
+Không tìm thấy PDF.
+
+[2025-08-14 06:20:00.537868] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[2025-08-14 06:20:03.934860] Hoàn thành và dọn dẹp.
+
+[2025-08-14 06:50:00.292693] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[2025-08-14 06:50:02.788920] Hoàn thành và dọn dẹp.
+
+[2025-08-14 07:20:00.138230] Bắt đầu xử lý...
+Không tìm thấy PDF.
+
+[2025-08-14 07:50:00.532326] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[2025-08-14 07:50:03.898559] Hoàn thành và dọn dẹp.
+
+[2025-08-14 08:20:00.254292] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[GỬI OK] pdfs_batch_2.zip
+[2025-08-14 08:20:16.677060] Hoàn thành và dọn dẹp.
+
+[2025-08-14 08:50:00.039007] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[GỬI OK] pdfs_batch_2.zip
+[2025-08-14 08:50:07.979802] Hoàn thành và dọn dẹp.
+
+[2025-08-14 09:20:00.334993] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[2025-08-14 09:20:10.255390] Hoàn thành và dọn dẹp.
+
+[2025-08-14 09:50:00.602433] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[2025-08-14 09:50:04.484832] Hoàn thành và dọn dẹp.
+
+[2025-08-14 10:20:00.853856] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[2025-08-14 10:20:12.822522] Hoàn thành và dọn dẹp.
+
+[2025-08-14 10:50:00.171005] Bắt đầu xử lý...
+Không tìm thấy PDF.
+
+[2025-08-14 11:20:00.564353] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[2025-08-14 11:20:05.003262] Hoàn thành và dọn dẹp.
+
+[2025-08-14 11:50:00.365409] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[2025-08-14 11:50:04.149674] Hoàn thành và dọn dẹp.
+
+[2025-08-14 12:20:00.477342] Bắt đầu xử lý...
+Không tìm thấy PDF.
+
+[2025-08-14 12:50:00.841849] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[2025-08-14 12:50:05.272413] Hoàn thành và dọn dẹp.
+
+[2025-08-14 13:20:00.614829] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[2025-08-14 13:20:03.828819] Hoàn thành và dọn dẹp.
+
+[2025-08-14 13:50:00.171453] Bắt đầu xử lý...
+Không tìm thấy PDF.
+
+[2025-08-14 14:20:00.600920] Bắt đầu xử lý...
+[GỬI OK] pdfs_batch_1.zip
+[GỬI OK] pdfs_batch_2.zip
+[GỬI OK] pdfs_batch_3.zip
+[2025-08-14 14:21:21.680347] Hoàn thành và dọn dẹp.
+
+[2025-08-14 14:50:00.048466] Bắt đầu xử lý...
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 791, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 492, in _make_request
+    raise new_e
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 468, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1097, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x738919f1f530>: Failed to resolve 'api.telegram.org' ([Errno -3] Temporary failure in name resolution)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 845, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 517, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7983597834:AAH9XAB_wYtEp7c-2mmzPz5NgO7_SnxKgVA/sendDocument (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x738919f1f530>: Failed to resolve 'api.telegram.org' ([Errno -3] Temporary failure in name resolution)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/enterprise-monitor/pdf2tele.py", line 95, in <module>
+    main_task()
+  File "/opt/enterprise-monitor/pdf2tele.py", line 86, in main_task
+    send_to_telegram(zip_file)
+  File "/opt/enterprise-monitor/pdf2tele.py", line 55, in send_to_telegram
+    resp = requests.post(API_URL, data={"chat_id": CHAT_ID}, files={"document": f})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7983597834:AAH9XAB_wYtEp7c-2mmzPz5NgO7_SnxKgVA/sendDocument (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x738919f1f530>: Failed to resolve 'api.telegram.org' ([Errno -3] Temporary failure in name resolution)"))

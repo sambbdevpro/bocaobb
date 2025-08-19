@@ -1,0 +1,25 @@
+[Unit]
+Description=Enterprise Monitor Service
+After=network.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/enterprise-monitor
+Environment=PATH=/opt/enterprise-monitor/venv/bin:/usr/local/bin:/usr/bin:/bin
+Environment=PYTHONPATH=/opt/enterprise-monitor
+Environment=DISPLAY=:99
+Environment=HOME=/root
+ExecStart=/opt/enterprise-monitor/venv/bin/python server_launcher.py
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=enterprise-monitor
+Restart=on-failure
+RestartSec=5
+StartLimitBurst=10
+StartLimitIntervalSec=300
+
+[Install]
+WantedBy=multi-user.target
+
